@@ -7,10 +7,6 @@ A machine learning project that predicts whether a bank customer will **leave (c
 ```
 .
 ├── customer_churn_Prediction.ipynb   # Full analysis and modeling notebook
-├── requirements.txt                  # Python dependencies
-├── customer_data.csv                 # Dataset (add this file yourself, see below)
-├── models/
-│   └── churn_model.joblib            # Saved pipeline (created by the last notebook cell)
 └── README.md
 ```
 
